@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+tensorflow
+sklearn
+keras
+ANN_visualizer
+pysimplegui
+graphviz
